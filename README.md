@@ -12,11 +12,11 @@
 
 ---
 
-## ⭐ Project Goal: [Insert Comprehensive Project Title Here]
+## ⭐ Project Goal: Become A Data Analyst
 
-This repository demonstrates the successful execution of an end-to-end data analysis workflow, covering the core skills required on the full Data Analyst path, from data acquisition and cleaning to visualization and reporting.
+This repository demonstrates the successful execution of an end-to-end data analysis workflow, covering the core skills required on the full Data Analyst path, aligning with the industry-recognized **Data Analyst Roadmap** (See: [roadmap.sh/data-analyst](https://roadmap.sh/data-analyst)).
 
-The main objective was to **[State the overarching business/analytical question or goal, emphasizing the end-to-end nature, e.g., 'Perform a comprehensive analysis of market trends to provide actionable, data-driven recommendations for a business unit.']**
+The main objective was to **[State the overarching business/analytical question or goal, emphasizing the end-to-end nature.]**
 
 ### 📌 Key Analytical Concepts Demonstrated
 * **Mastering Data Handling** (Cleanup, Transformation).
